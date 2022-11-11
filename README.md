@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohammedWishah
 - 👀 I’m interested in GameDev 
-- 🌱 I’m currently learning UE And Rust
+- 🌱 I’m currently learning UE And C++
 - 💞️ I’m looking to collaborate on Nothing :)
 - 📫 How to reach me My Discord : JoVa#9175
 
