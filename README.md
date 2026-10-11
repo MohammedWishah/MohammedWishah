@@ -7,7 +7,7 @@ I build full-stack web applications, with a focus on backend.
 
 ## Projects
 
-- **Life Board** — multi-user personal dashboard for money and side projects.
+- **[Life Board](https://github.com/MohammedWishah/DashBoard)** — multi-user personal dashboard for money and side projects.
   React, TypeScript, Hono on Cloudflare Pages Functions, D1 + Drizzle, Supabase Auth.
 - **Multiplayer Trading Card Game** — real-time PvP card game, team of 3. I built game-state
   sync, authentication, and session handling. Angular, Spring Boot, WebSockets.
