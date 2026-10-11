@@ -69,7 +69,6 @@
 
     <!-- bottom bar -->
     <path d="M40 258H960" stroke="#292f29" stroke-width="1"/>
-    <text x="40" y="281" class="mono muted label">JAVA · SPRING BOOT · TYPESCRIPT</text>
     <text x="960" y="281" class="mono muted label" text-anchor="end">AR · DE C1 · EN</text>
   </g>
   <rect x="0.5" y="0.5" width="999" height="299" rx="10" fill="none" stroke="#292f29"/>
