@@ -1,24 +1,16 @@
 <a href="https://mohammedwishah.com"><img src="./header.svg" width="100%" alt="Mohammed Wishah. Software engineering student, backend-first full-stack, Bochum, Germany. Available for working student and internship roles."></a>
 
-### I like the parts of software you can't see: state, sessions, sync.
+Software engineering student at the University of Duisburg-Essen, based in Bochum, Germany.
+I build full-stack web applications, with a focus on backend.
 
-Software engineering student at the University of Duisburg-Essen. I start at the backend and work forward until it ships. Hand me an unfamiliar system and I'll work out how its parts fit together, from the browser to the server.
+**Open to working student and internship roles.**
 
-<p>
-  <a href="https://mohammedwishah.com"><img src="https://img.shields.io/badge/Portfolio-mohammedwishah.com-ffb000?style=flat-square&labelColor=0c0e0d" alt="Portfolio: mohammedwishah.com"></a>
-  <a href="https://www.linkedin.com/in/mohammed-wishah-633043241/"><img src="https://img.shields.io/badge/LinkedIn-Mohammed_Wishah-ffb000?style=flat-square&labelColor=0c0e0d" alt="LinkedIn: Mohammed Wishah"></a>
-  <a href="mailto:mr0wishah@gmail.com"><img src="https://img.shields.io/badge/Email-mr0wishah@gmail.com-ffb000?style=flat-square&labelColor=0c0e0d" alt="Email: mr0wishah@gmail.com"></a>
-</p>
+## Projects
 
-## Selected work
-
-**01 · Multiplayer Trading Card Game** &nbsp;`Angular` `Spring Boot` `WebSockets`
-
-Real-time PvP card game, built in a team of 3. I built the game-state synchronization between clients, the authentication, and the session handling.
-
-**02 · Life Board** &nbsp;`React` `TypeScript` `Hono` `Cloudflare D1` `Supabase Auth`
-
-A multi-user dashboard for money and side projects. Every person gets private data, an admin decides who sees which section, and a voice assistant can read and update it through a token-protected API.
+- **Life Board** — multi-user personal dashboard for money and side projects.
+  React, TypeScript, Hono on Cloudflare Pages Functions, D1 + Drizzle, Supabase Auth.
+- **Multiplayer Trading Card Game** — real-time PvP card game, team of 3. I built game-state
+  sync, authentication, and session handling. Angular, Spring Boot, WebSockets.
 
 ## Stack
 
@@ -40,3 +32,7 @@ A multi-user dashboard for money and side projects. Every person gets private da
 ## Languages
 
 Arabic (native) · German (C1) · English (professional)
+
+## Contact
+
+[Portfolio](https://mohammedwishah.com) · [LinkedIn](https://www.linkedin.com/in/mohammed-wishah-633043241/) · mr0wishah@gmail.com
