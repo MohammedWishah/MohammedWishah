@@ -1,7 +1,7 @@
-<a href="https://mohammedwishah.com"><img src="./header.svg" width="100%" alt="Mohammed Wishah. Software engineering student, backend-first full-stack, Bochum, Germany. Available for working student and internship roles."></a>
+<a href="https://mohammedwishah.com"><img src="./header.svg" width="100%" alt="Mohammed Wishah. Software engineering student, Python, moving into machine learning, Bochum, Germany. Available for working student and internship roles."></a>
 
 Software engineering student at the University of Duisburg-Essen, based in Bochum, Germany.
-I build full-stack web applications, with a focus on backend.
+I build software with Python and TypeScript, and I am now focusing on machine learning.
 
 **Open to working student and internship roles.**
 
