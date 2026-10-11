@@ -37,6 +37,6 @@ A multi-user dashboard for money and side projects. Every person gets private da
   <img src="https://img.shields.io/badge/Linux-0c0e0d?style=flat-square&logo=linux&logoColor=ffb000" alt="Linux">
 </p>
 
-## Also
+## Languages
 
-**Languages:** Arabic (native) · German (C1) · English (professional)
+Arabic (native) · German (C1) · English (professional)
